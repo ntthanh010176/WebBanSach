@@ -2,4 +2,5 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <h2>Quản trị sách</h2>
     <hr />
+    Noi dung 
 </asp:Content>

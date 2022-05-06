@@ -15,13 +15,13 @@ namespace WebBanSach
     {
 
         /// <summary>
-        /// Repeater1 control.
+        /// rptChuDe control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Repeater Repeater1;
+        protected global::System.Web.UI.WebControls.Repeater rptChuDe;
 
         /// <summary>
         /// lvSach control.
@@ -40,5 +40,14 @@ namespace WebBanSach
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.SqlDataSource dsChuDe;
+
+        /// <summary>
+        /// dsSach control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.SqlDataSource dsSach;
     }
 }
